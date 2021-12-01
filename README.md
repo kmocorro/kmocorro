@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a seasoned web developer who worked for a solar cell manufacturing company for 7-years.
 <!--
 **kmocorro/kmocorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
