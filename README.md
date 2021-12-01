@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Kevs!
 
-### I am a seasoned web developer who worked for a solar cell manufacturing company for 7-years.
+### I am a seasoned web developer who worked for a solar cell manufacturing company for 7+ years.
 - 🏢 I'm currently working full-time as Manufacturing System Analyst at Maxeon Solar Technologies
 - 🛠 Tools and frameworks I use: `next.js` `react.js` `node.js` `vercel` `hasura` `postgresql` `mysql` `chakra-ui` `material-ui` `ant-design`
 - 🌱 I’m currently learning more about: `typescript` `graphql` They say practice makes mastery not so perfect 😎👌
