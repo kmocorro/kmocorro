@@ -1,11 +1,17 @@
-### Hi there 👋
-I am a seasoned web developer who worked for a solar cell manufacturing company for 7-years.
+### Hi there 👋 - I'm Kevs!
+
+### I am a seasoned web developer who worked for a solar cell manufacturing company for 7-years.
+- 🏢 I'm currently working full-time as Manufacturing System Analyst at Maxeon Solar Technologies
+- 🛠 Tools and frameworks I use: `next.js` `react.js` `node.js` `vercel` `hasura` `postgresql` `mysql` `chakra-ui` `material-ui` `ant-design`
+- 🌱 I’m currently learning more about: `typescript` `graphql` They say practice makes mastery not so perfect 😎👌
+- 📫 How to reach me: [kevinmocorro@gmail.com](mailto:kevinmocorro@gmail.com)
+- ⚡ What drives me: To touch people's lives by creating useful and meaningful projects not just for the company but also to the people who will use it. 
 <!--
 **kmocorro/kmocorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
