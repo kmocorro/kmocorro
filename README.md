@@ -5,7 +5,7 @@
 - 🛠 Tools and frameworks I use: `next.js` `react.js` `node.js` `vercel` `hasura` `postgresql` `mysql` `chakra-ui` `material-ui` `ant-design`
 - 🌱 I’m currently learning more about: `typescript` `graphql` They say practice makes mastery not so perfect 😎👌
 - 📫 How to reach me: [kevinmocorro@gmail.com](mailto:kevinmocorro@gmail.com)
-- ⚡ What drives me: To touch people's lives by creating useful and meaningful projects not just for the company but also for the people who will use them. 
+- ⚡ What drives me: To touch people's lives by creating useful and meaningful projects not just for the company but also for the betterment of humanity. 
 <!--
 **kmocorro/kmocorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
