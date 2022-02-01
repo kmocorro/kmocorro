@@ -1,4 +1,4 @@
-### Hi there 👋 - I'm Kevs!
+## Hi there 👋 - I'm Kevs!
 
 ### I am a seasoned web developer who worked for a solar cell manufacturing company for 7+ years.
 - 🏢 I'm currently working full-time as Manufacturing System Analyst at Maxeon Solar Technologies
